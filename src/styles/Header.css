@@ -71,6 +71,10 @@
 
 /* Mobile */
 @media screen and (max-width: 768px) {
+	.header {
+		align-items: center;
+		justify-content: center;
+	}
 	.header__search,
 	.header__searchInput,
 	.header__searchIcon {
