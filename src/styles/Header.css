@@ -74,7 +74,9 @@
 	.header {
 		align-items: center;
 		justify-content: center;
+		width: 100%;
 	}
+
 	.header__search,
 	.header__searchInput,
 	.header__searchIcon {
